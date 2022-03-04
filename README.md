@@ -1,7 +1,7 @@
 # Bumpershoot-Bam
 Bootcamp Module 13 Challenge: Object Relational Mapping with Sequalize
 
-Demo Video: https://watch.screencastify.com/v/U2HMJpKjqA7cQLW30kur
+Demo Video: https://watch.screencastify.com/v/U2HMJpKjqA7cQLW30kur <br>
 Repo: https://github.com/ajureel/Bumpershoot-Bam
 
 ## Description
@@ -13,6 +13,9 @@ Take starter code and build the back end for an e-commerce site.  Build out the 
 2. Create the DB.  Within mysql use the command: Source db/schema.sql
 3. Seed the DB.  From the console: npm run seed
 4. Run the app.  From the console: npm start
+5. Test the routes in Insomnia
+
+![picture of testing](assets\images\insomnia-test-routes.png)
 
 ## User Story
 **AS A** manager at an internet retail company<br>
